@@ -303,3 +303,18 @@ footer {
 	}
 
 /* code examples copyright Jonathan Grover 2012 */
+.wrap{
+	margin: auto;
+	display: flex;
+}
+.col-2{
+	width:66.7%;
+	margin-right:20px;
+}
+.col-1{
+	width: 33.3%;
+}
+.wrap>.shoe{
+	width:33.3%;
+	margin:0 30px;
+}
