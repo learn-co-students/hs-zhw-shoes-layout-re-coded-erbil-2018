@@ -303,3 +303,53 @@ footer {
 	}
 
 /* code examples copyright Jonathan Grover 2012 */
+.col-1.shadow{
+	width: 66%;
+	display: inline-block;
+}
+.col-2.shadow{
+	width: 33%;
+	display: inline-block;
+	margin-left:3px;
+	float: right;;
+}
+
+.col-3.shadow{
+width: 32%;
+display: inline-block;
+margin: 5px;
+}
+.col-4.shadow{
+	width: 32%;
+	display: inline-block;
+	margin: 5px;
+	}
+
+.col-5.shadow{
+		width: 32%;
+		display: inline-block;
+		margin: 5px;
+		}
+
+.detail{
+	float: left;
+}
+
+.col-6.border_right{
+	width: 30%;
+	display: inline-block;
+}
+.col-7.border_right{
+	width: 30%;
+	display: inline-block;
+}
+.col-8.border_right{
+	width: 30%;
+	display: inline-block;
+}
+
+.last{
+	float:center;
+	margin:0 auto;
+
+}
