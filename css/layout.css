@@ -18,10 +18,69 @@
   line-height: 0;
 }
 
-.clear {
+#shadow {
   clear: both;
+  display: inline-block;
+  overflow: auto;
+margin: 0px 10px 0px 0px;
+width: 70%;
 }
 
+.shadow2 {
+  clear: both;
+  display: inline-block;
+  width: 28%;
+  overflow: auto;
+  padding: 33px;
+
+
+
+}
+
+.shadow3 {
+  clear: both;
+  display: inline-block;
+  width: 31.5%;
+  overflow: auto;
+margin: 15px 14px 15px 0px;
+
+}
+#details {
+  display: inline-block;
+  width: auto;
+  overflow: auto;
+  clear: both;
+
+}
+
+
+
+
+
+
+
+
+.border_right {
+  display: inline-block;
+  width: auto;
+  overflow: auto;
+  clear: both;
+
+}
+
+
+
+. {
+  display: inline-block;
+  width: auto;
+  overflow: auto;
+  clear: both;
+
+}
+
+
+
+
+
+
 /* Positioning Classes */
-
-
